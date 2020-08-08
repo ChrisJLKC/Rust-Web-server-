@@ -14,5 +14,5 @@ Multi-Threaded Server:
 
 This server acts the same as the single threaded server, but multiple user are online on your website, you can be able to do multiple functions at once to reduce slow requests to
 your site when people are using it. Also, to free up processes when people are looking at your site, the server will remove all processes from the selected device in your site and 
-be able to use the website offline until someone uses a link to go to another part of the website. This means that server will not be processing anything whilst a device is on a s
+be able to use the website offline until someone uses a link to go to another part of the website. This means that server will not be processing anything whilst a device is on a
 selected page.
